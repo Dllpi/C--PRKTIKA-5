@@ -1,0 +1,56 @@
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\аня\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\ntuma\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\аня\5\Тема 5. Применение делегатов и событий\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\УНИВЕР\процессы\Тема 5\Контрольные задания\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

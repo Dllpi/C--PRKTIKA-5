@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\polun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\polun\\.nuget\\packages"
+    ]
+  }
+}
